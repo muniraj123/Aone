@@ -26,6 +26,7 @@ public class TC_LoginTest_001 extends BaseClass
 		
 		Thread.sleep(15000);		
 		System.out.println(driver.getTitle());
+		System.out.println(driver.getTitle());
 		
 		if (driver.getTitle().trim().equals("Guru99 Bank Manager HomePage"))
 		{			

@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Aone" duration-ms="30105" started-at="2020-05-26T15:17:36Z" finished-at="2020-05-26T15:18:06Z">
+  <suite name="Aone" duration-ms="36490" started-at="2020-05-26T17:18:33Z" finished-at="2020-05-26T17:19:10Z">
     <groups>
     </groups>
-    <test name="BankingApp Test" duration-ms="30105" started-at="2020-05-26T15:17:36Z" finished-at="2020-05-26T15:18:06Z">
+    <test name="BankingApp Test" duration-ms="36490" started-at="2020-05-26T17:18:33Z" finished-at="2020-05-26T17:19:10Z">
       <class name="com.Aone.testCases.TC_LoginTest_001">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.Aone.testCases.TC_LoginTest_001@17c68925]" name="setup" is-config="true" duration-ms="12149" started-at="2020-05-26T15:17:36Z" finished-at="2020-05-26T15:17:49Z">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.Aone.testCases.TC_LoginTest_001@17c68925]" name="setup" is-config="true" duration-ms="16069" started-at="2020-05-26T17:18:34Z" finished-at="2020-05-26T17:18:50Z">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.Aone.testCases.TC_LoginTest_001@17c68925]" name="loginTest" duration-ms="16883" started-at="2020-05-26T15:17:49Z" finished-at="2020-05-26T15:18:05Z">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.Aone.testCases.TC_LoginTest_001@17c68925]" name="loginTest" duration-ms="19345" started-at="2020-05-26T17:18:50Z" finished-at="2020-05-26T17:19:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Aone.testCases.TC_LoginTest_001@17c68925]" name="tearDown" is-config="true" duration-ms="780" started-at="2020-05-26T15:18:05Z" finished-at="2020-05-26T15:18:06Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Aone.testCases.TC_LoginTest_001@17c68925]" name="tearDown" is-config="true" duration-ms="784" started-at="2020-05-26T17:19:09Z" finished-at="2020-05-26T17:19:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
