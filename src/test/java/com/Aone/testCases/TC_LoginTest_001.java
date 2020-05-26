@@ -24,7 +24,7 @@ public class TC_LoginTest_001 extends BaseClass
 		// ----------all the statements are combined in this below statment.
 		lp.loginToBank(username, password);
 		
-		Thread.sleep(10000);		
+		Thread.sleep(15000);		
 		System.out.println(driver.getTitle());
 		
 		if (driver.getTitle().trim().equals("Guru99 Bank Manager HomePage"))
