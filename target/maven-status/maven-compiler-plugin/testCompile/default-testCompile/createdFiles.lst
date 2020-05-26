@@ -1,0 +1,10 @@
+com\Aone\utilities\Reporting.class
+com\Aone\utilities\XLUtils.class
+com\Aone\testCases\TC_AddCustomerTest_003.class
+com\Aone\testCases\test.class
+com\Aone\testCases\BaseClass.class
+com\Aone\testCases\TC_LoginTest_001.class
+com\Aone\utilities\ReadConfig.class
+com\Aone\pageObject\LoginPage.class
+com\Aone\testCases\TC_LoginDDTest_002.class
+com\Aone\pageObject\AddCustomerPage.class
